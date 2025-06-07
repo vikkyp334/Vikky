@@ -145,3 +145,11 @@ a:hover {
     gap: 1rem;
   }
 }
+
+.badge-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin: 0 auto 1rem;
+  display: block;
+}
